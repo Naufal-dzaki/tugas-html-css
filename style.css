@@ -72,11 +72,11 @@ img {
 }
 
 .container:hover > .shape-1 {
-    animation: spin 4s ease infinite reverse;
+    animation: spin 4s linear infinite reverse;
 }
 
 .container:hover > .shape-2 {
-    animation: spin 4s ease infinite reverse;
+    animation: spin 4s linear infinite reverse;
 }
 
 .sosmed {
